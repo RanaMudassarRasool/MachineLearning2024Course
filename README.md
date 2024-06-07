@@ -1,6 +1,7 @@
 # Machine Learning for Beginners: A 12-Week Course Outline (3 Months)
 
 This course outline provides a comprehensive introduction to machine learning for students who have yet to gain prior experience. It's designed to be delivered over 12 weeks (3 months) and focuses on Python programming, data visualization tools (Power BI & Tableau), and machine learning concepts.
+
 **Target Audience:** Beginners with no prior knowledge of machine learning.
 
 **Course Objectives:**
@@ -19,6 +20,7 @@ This course outline provides a comprehensive introduction to machine learning fo
 2. Working with functions and libraries
 3. Introduction to data structures (lists, dictionaries)
 4. Data manipulation using libraries like Pandas
+   
 **Week 4: Introduction to Machine Learning**
 
 1. What is machine learning?
@@ -39,7 +41,7 @@ This course outline provides a comprehensive introduction to machine learning fo
 2. Logistic Regression: Classifying data into categories
 3. Decision Trees: Making predictions based on a tree structure
 4. K-Nearest Neighbors (KNN): Predicting based on similar data points
-5. 
+   
 **Week 9 & 10: Hands-on Machine Learning Projects (I)**
 1. Choose a simple dataset
 2. Apply learned data preparation techniques using Python
@@ -52,6 +54,7 @@ This course outline provides a comprehensive introduction to machine learning fo
 1. Connecting to data sources in Power BI and Tableau
 2. Creating interactive visualizations (charts, dashboards)
 3. Using visualizations to communicate machine learning results
+   
 **Week 12: Course Wrap-up and Project Showcase**
 
 1. Review of Course concepts
