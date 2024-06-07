@@ -1,5 +1,6 @@
 # Machine Learning for Beginners: A 12-Week Course Outline (3 Months)
-playlist 
+**Playlist**
+
 https://www.youtube.com/playlist?list=PLxRFbX3boNVDD4quApmCRWBlnW9vtsJ5i
 
 This course outline provides a comprehensive introduction to machine learning for students who have yet to gain prior experience. It's designed to be delivered over 12 weeks (3 months) and focuses on Python programming, data visualization tools (Power BI & Tableau), and machine learning concepts.
